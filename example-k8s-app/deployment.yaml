@@ -27,4 +27,4 @@ spec:
       volumes:
         - name: data
           persistentVolumeClaim:
-            claimName: example-data-claim
+            claimName: pvc-01
